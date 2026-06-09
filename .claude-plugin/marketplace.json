@@ -2,13 +2,14 @@
   "name": "Market Research Skills",
   "description": "A marketplace of market research and analysis skills for D2C founders and startups",
   "version": "1.0.0",
-  "author": "aghash",
+  "owner": "aghash",
   "plugins": [
     {
       "id": "market-research-analyst",
       "name": "Market Research Analyst",
       "description": "Market research pipeline for D2C founders and startups. Runs structured competitor analysis, PMF analysis, or comprehensive research.",
       "version": "1.0.0",
+      "source": "skills/market-research-analyst",
       "entry": "SKILL.md",
       "type": "skill"
     }
